@@ -1,2 +1,1 @@
-# bingo_public
-my_own_code_public
+## 此仓库主要存储开源项目
